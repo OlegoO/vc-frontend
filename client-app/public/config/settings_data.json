@@ -1,7 +1,14 @@
 {
-  "current": "default",
+  "current": "dentalstore-blue",
   "settings": {
     "show_details_in_separate_tab": true,
+
+    "page_title_with_store_name": true,
+    "page_title_store_name_align": "start",
+    "page_title_divider": " · ",
+
+    "catalog_menu_link_list_name": "catalog-menu",
+    "catalog_empty_categories_enabled": true,
 
     "files_enabled": true,
 
@@ -16,7 +23,7 @@
     "product_filters_sorting_direction": "asc",
 
     "vendor_enabled": true,
-    "vendor_rating_enabled": true,
+    "rating_enabled": true,
     "categories_limit": 499,
     "wishlists_limit": 10,
 
@@ -25,6 +32,7 @@
     "search_static_content_suggestions_enabled": true,
     "search_product_phrase_suggestions_enabled": false,
 
+    "support_phone_number": "+31 416 652 803",
     "zero_price_product_enabled": false,
 
     "checkout_multistep_enabled": true,
@@ -37,10 +45,10 @@
 
     "default_return_url": "/",
 
-    "logo_image": "/static/images/common/logo.svg",
-    "logo_inverted_image": "/static/images/common/logo-white.svg",
-    "favicon_image": "/static/icons/favicon-32x32.png",
-    "homepage_background_image": "/static/images/home/main-banner.webp",
+    "logo_image": "/static/images/dentalstore/logos/Logo-original-Default.svg",
+    "logo_inverted_image": "/static/images/dentalstore/logos/Logo-original-White.svg",
+    "favicon_image": "/static/icons/dental-icons/favicon-2x.png",
+    "homepage_background_image": "/static/images/dentalstore/home/Main-banner-bg-front.jpg",
 
     "image_thumbnails_enabled": true,
     "image_thumbnails_original_fallback_enabled": true,

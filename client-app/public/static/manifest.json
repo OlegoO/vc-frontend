@@ -1,7 +1,7 @@
 {
-  "name": "B2B-store",
-  "short_name": "B2B-store",
-  "description": "B2B-store",
+  "name": "Dental-store",
+  "short_name": "Dental-store",
+  "description": "Dental-store",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
@@ -12,12 +12,12 @@
   "theme_color": "#fff",
   "icons": [
     {
-      "src": "/static/icons/favicon-16x16.png",
+      "src": "/static/icons/dental-icons/favicon-2x.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/static/icons/favicon-32x32.png",
+      "src": "/static/icons/dental-icons/favicon-2x.png",
       "sizes": "32x32",
       "type": "image/png"
     }
